@@ -1,0 +1,22 @@
+[
+  {
+    "query1": "What is the weather like today?",
+    "query2": "How is the weather looking today?"
+  },
+  {
+    "query1": "Explain quantum computing",
+    "query2": "Can you describe what quantum computing is?"
+  },
+  {
+    "query1": "How do I install python on windows?",
+    "query2": "What are the steps to install python on windows?"
+  },
+  {
+    "query1": "What is NVIDIA's revenue for Q1 2024?",
+    "query2": "How much money did NVIDIA make in Q1 2024?"
+  },
+  {
+    "query1": "Translate 'hello' to Spanish",
+    "query2": "How do you say 'hello' in Spanish?"
+  }
+]

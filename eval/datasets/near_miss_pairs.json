@@ -1,0 +1,22 @@
+[
+  {
+    "query1": "What is NVIDIA's revenue for Q1 2024?",
+    "query2": "What is NVIDIA's revenue for Q1 2023?"
+  },
+  {
+    "query1": "Python list append",
+    "query2": "Python list extend"
+  },
+  {
+    "query1": "How to create a new user in Linux?",
+    "query2": "How to delete a user in Linux?"
+  },
+  {
+    "query1": "Difference between TCP and UDP",
+    "query2": "Difference between HTTP and HTTPS"
+  },
+  {
+    "query1": "Who won the World Cup in 2018?",
+    "query2": "Who won the World Cup in 2022?"
+  }
+]
